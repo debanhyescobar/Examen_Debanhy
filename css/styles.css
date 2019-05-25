@@ -180,7 +180,7 @@ p {
 #box30{
   width: 30%;
   height: 100%;
-      background: url('../imagenes/quiero todo.jpg')no-repeat center center/cover;
+     background: url('../imagenes/quiero todo.jpg')no-repeat center center/cover;
     float: left;
     padding-right:5px;
     padding-left:5px;
@@ -236,7 +236,7 @@ height: 100%;
       #box33{
         width: 33.3%;
         height: 100%;
-            background: url('../imagenes/menu.jpg')no-repeat center center/cover;
+            background: url('../imagenes/Menu.jpg')no-repeat center center/cover;
           float: left;
           padding-right:5px;
           padding-left:5px;
